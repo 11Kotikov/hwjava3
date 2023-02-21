@@ -3,8 +3,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-import org.w3c.dom.css.Counter;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("input a value that will be the length of your list: ");
